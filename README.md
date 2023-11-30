@@ -8,7 +8,6 @@ This project serves as a comprehensive Password Manager, designed and implemente
 - **Encryption**: Utilizes the Caesar Cipher algorithm for robust data encryption.
 - **Linked List Implementation**: Employs linked lists for optimized data organization.
 - **Class Implementation**: Utilizes classes for structured and organized code.
-- **Data Flushing**: Ensures the security of sensitive information with data flushing mechanisms.
 
 ## Usage
 To use the DSA Password Manager:
