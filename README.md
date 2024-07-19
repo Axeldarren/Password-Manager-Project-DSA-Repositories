@@ -54,9 +54,6 @@ Copy code
 ## Contributing
 Contributions are welcome! Feel free to fork this repository, make your changes, and create a pull request. For major changes, please open an issue first to discuss the proposed updates.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 This project was developed as a final assignment for the Data Structures & Algorithms course, aiming to showcase the practical implementation of DSA concepts in real-world applications.
 
